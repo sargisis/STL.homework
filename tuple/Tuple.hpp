@@ -6,7 +6,7 @@
 #include <initializer_list>
 
 template<typename T, typename... Ts>
-struct Tuple {
+class Tuple {
     private:
     T val;                     
     Tuple<Ts...> rest;         
@@ -57,7 +57,7 @@ struct Tuple {
 
 
 template<typename T>
-struct Tuple<T> {
+class Tuple<T> {
     private:
     T val;  
     

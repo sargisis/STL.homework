@@ -38,7 +38,7 @@ void Tuple<T, Ts...>::_swap(Tuple<T, Ts...>& ob) noexcept {
     rest._swap(ob.rest);
 }
 
-// Define member functions for the single-element Tuple specialization
+
 template<typename T>
 Tuple<T>::Tuple(const Tuple& rhv) : val(rhv.val) {}
 
@@ -62,7 +62,7 @@ void Tuple<T>::_swap(const Tuple& other) noexcept {
     std::swap(val, other.val); 
 }
 
-// Define comparison operators for tuples
+
 template<typename...Ts, typename...Us>
 bool operator==(const Tuple<Ts...>& lhv, const Tuple<Us...>& rhv) {
     return compare(lhv, rhv) == 0;

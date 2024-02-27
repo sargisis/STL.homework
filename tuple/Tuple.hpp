@@ -55,7 +55,7 @@ struct Tuple {
 
 
 
-// Specialization for tuple with a single element
+
 template<typename T>
 struct Tuple<T> {
     private:

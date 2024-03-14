@@ -28,8 +28,8 @@ public:
 public:
     Forward_List();
     Forward_List(std::initializer_list<T> initlist); 
-    Forward_List(const Forward_List<T>& rhv); // copy ctor 
-    Forward_List(Forward_List<T>&&); // move ctor 
+    Forward_List(const Forward_List<T>& rhv); 
+    Forward_List(Forward_List<T>&&);  
     const Forward_List& operator=(const Forward_List<T>&);
     const Forward_List& operator=(Forward_List<T>&&);
     ~Forward_List();

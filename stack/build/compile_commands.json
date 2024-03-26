@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/ONLYPROGRAMMING/Desktop/stack/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/Stack.dir/StackHeader/Stack.cpp.o -c /Users/ONLYPROGRAMMING/Desktop/stack/StackHeader/Stack.cpp",
+  "file": "/Users/ONLYPROGRAMMING/Desktop/stack/StackHeader/Stack.cpp",
+  "output": "CMakeFiles/Stack.dir/StackHeader/Stack.cpp.o"
+},
+{
+  "directory": "/Users/ONLYPROGRAMMING/Desktop/stack/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.4.sdk -o CMakeFiles/Stack.dir/StackSrc/main.cpp.o -c /Users/ONLYPROGRAMMING/Desktop/stack/StackSrc/main.cpp",
+  "file": "/Users/ONLYPROGRAMMING/Desktop/stack/StackSrc/main.cpp",
+  "output": "CMakeFiles/Stack.dir/StackSrc/main.cpp.o"
+}
+]

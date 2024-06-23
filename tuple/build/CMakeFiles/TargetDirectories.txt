@@ -1,3 +1,0 @@
-/Users/ONLYPROGRAMMING/Desktop/tuple/build/CMakeFiles/Tuple.dir
-/Users/ONLYPROGRAMMING/Desktop/tuple/build/CMakeFiles/edit_cache.dir
-/Users/ONLYPROGRAMMING/Desktop/tuple/build/CMakeFiles/rebuild_cache.dir

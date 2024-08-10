@@ -1,6 +1,7 @@
 #include <iostream>
 #include "../ArrayHeader/Array.h"
 
+
 int main() {
     // Create an array of integers with 5 elements
     g3::array<int, 5> arr = {1, 2, 3, 4, 5};

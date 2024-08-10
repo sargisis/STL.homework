@@ -1,3 +1,0 @@
-/Users/ONLYPROGRAMMING/Desktop/stack/build/CMakeFiles/Stack.dir
-/Users/ONLYPROGRAMMING/Desktop/stack/build/CMakeFiles/edit_cache.dir
-/Users/ONLYPROGRAMMING/Desktop/stack/build/CMakeFiles/rebuild_cache.dir

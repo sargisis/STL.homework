@@ -3,6 +3,7 @@
 #include "Array.h"
 
 
+
 namespace g3 {
 
   template<typename T, std::size_t N>

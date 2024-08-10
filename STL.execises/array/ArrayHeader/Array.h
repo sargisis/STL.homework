@@ -12,6 +12,7 @@
 #include <limits>
 #include <ostream>
 
+
 namespace g3 {
     template<typename T, std::size_t N>
     struct array 

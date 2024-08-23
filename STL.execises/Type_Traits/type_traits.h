@@ -53,6 +53,9 @@ namespace traits
         f(0);
         p += t;
     } > {};
+
+    template< class T >
+    constexpr bool is_integral_v = is_integral<T>::value;
     //
 
     //      is_floating_point       //
